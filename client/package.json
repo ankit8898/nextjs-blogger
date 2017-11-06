@@ -1,0 +1,13 @@
+{
+  "name": "nextjs-blogger",
+  "version": "1.0.0",
+  "description": "Nextjs + Rails demo blogging app",
+  "main": "index.js",
+  "author": "Ankit Gupta <ankit.gupta8898@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "nextjs": "^0.0.3",
+    "react": "^16.0.0",
+    "react-dom": "^16.0.0"
+  }
+}
